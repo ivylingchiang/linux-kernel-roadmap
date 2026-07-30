@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# VSCode
+.vscode/
+
+# CLion
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Build
+build/
+out/
+*.o
+*.ko
+*.mod
+*.cmd
+*.order
+*.symvers
+
+# Logs
+*.log
+
+# QEMU
+*.qcow2
+
+# Temporary
+tmp/
