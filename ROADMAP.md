@@ -31,6 +31,18 @@ Month 1       Months 2-3     Months 4-5     Months 6-8     Month 9      Months 1
 
 ---
 
+## 📁 Directory Creation Policy
+
+The repository stays minimal on purpose: only `environment/`, `notes/`, and `experiments/`
+exist right now (see their own `README.md` for what goes where).
+
+Every "Directory Structure" block shown below (`csapp/`, `linux-programming/`, `linux-kernel/`,
+`modules/`, `source-reading/`, `projects/`, ...) is a **reference for what to create when that
+phase actually starts** — not a checklist to build in advance. When you begin Phase N, create
+only the folders that phase's section describes, named to match.
+
+---
+
 ## 🛠 Phase 0: Environment & Toolchain Setup (Month 1)
 
 > **Goal:** Build a reproducible kernel build, run, and debugging environment using QEMU & GDB.
